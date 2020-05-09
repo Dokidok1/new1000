@@ -1,7 +1,7 @@
 ## Recurssion
 [Back to Main page](https://github.com/Dokidok1/new1000)
 
-This lecture will teach the basic **recursion** we might be use in our c# projects, the source could be found in [here](https://code-maze.com/csharp-basics-recursion/)
+*This lecture will teach the basic **recursion** we might be use in our c# projects, the source could be found in [here](https://code-maze.com/csharp-basics-recursion/)*
 
 * the recursion could be used in the following situation
    * calculates the sum of all the numbers from n to m recursively
