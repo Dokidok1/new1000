@@ -7,9 +7,9 @@ the source found be found **[here](https://stackoverflow.com/questions/2706500/h
 
 * There are two method I use a lot 
   * random.next()
-  *guild.newguild()
+  * guild.newguild()
   
- ### random.next()
+ ### *random.next()*
  
  ```
  Random rnd = new Random();
@@ -19,7 +19,7 @@ int card   = rnd.Next(52)
 ```
 
 
-### guild.newguild()
+### *guild.newguild()*
 
 ```
 public int GenerateRandom(int min, int max)
