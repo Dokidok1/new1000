@@ -11,7 +11,7 @@
   
 *The class in c# is not that hard as what it looks like, to define a class, just need to type the following code*
 
-```Live Demo
+```c#
 using System;
 
 namespace BoxApplication {
