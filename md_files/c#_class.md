@@ -5,7 +5,7 @@
 ### The complete toturial could be found in **[here](https://www.tutorialspoint.com/csharp/csharp_classes.htm)** ![logo](https://www.tutorialspoint.com/csharp/images/logo.png)
 
 
-* Two items need to notice in this lectue
+* **Two items** need to notice in this lectue
   * class
   * constructor
   
@@ -52,7 +52,7 @@ namespace BoxApplication {
 **the output is**
 ![class output](https://github.com/Dokidok1/new1000/blob/master/images/class.png)
 
-notice the class must be define within **namespace**
+*notice the class must be define within* **namespace**
 
 
 
