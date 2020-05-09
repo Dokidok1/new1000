@@ -1,7 +1,9 @@
 ## C# class
 
-### The complete toturial could be found in **[aa](https://www.tutorialspoint.com/csharp/csharp_classes.htm)** ![logo](https://www.tutorialspoint.com/csharp/images/logo.png)
- [Back to Mainp page](https://github.com/Dokidok1/new1000)
+ [Back to Main page](https://github.com/Dokidok1/new1000)
+
+### The complete toturial could be found in **[here](https://www.tutorialspoint.com/csharp/csharp_classes.htm)** ![logo](https://www.tutorialspoint.com/csharp/images/logo.png)
+
 
 * Two items need to notice in this lectue
   * class
@@ -35,7 +37,7 @@ notice the class must be define within **namespace**
 
 
 
- [Back to Mainp page](https://github.com/Dokidok1/new1000)
+ [Back to Main page](https://github.com/Dokidok1/new1000)
  
  [next lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_random.md)
 
