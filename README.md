@@ -27,9 +27,9 @@ using*
   * [recursion](https://github.com/Dokidok1/new1000/blob/master/md_files/recursion.md)
 
 *Except the poforlio file, all the other files includes c# codes like this*
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+```c#
+string s = "c# learning";
+
 ```
 
 markdown syntax [reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
