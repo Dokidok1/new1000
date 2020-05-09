@@ -32,13 +32,16 @@ This is c# basic like
  Debug.Log(a);
  ```
  
- It will out put 5 in console window.
+ It will out put **5** in console window.
  
  The above is very basic syntax, if you want to learn more, please check the 
  [c# basic](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md) lecture I wrote !
  
  
- [Back to Mainp page](https://github.com/Dokidok1/new1000)
+ [Back to Main page](https://github.com/Dokidok1/new1000)
+ 
+ 
+ [Start lectures](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md)
 
 
 
