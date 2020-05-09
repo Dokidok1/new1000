@@ -49,6 +49,9 @@ namespace BoxApplication {
 }
 ```
 
+**the output is**
+![class output](https://github.com/Dokidok1/new1000/blob/master/images/class.png)
+
 notice the class must be define within **namespace**
 
 
