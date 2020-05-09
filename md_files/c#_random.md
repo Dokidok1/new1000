@@ -5,6 +5,7 @@
 
 the source found be found **[here](https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number)**
 
+![randon1](https://i2.wp.com/css-tricks.com/wp-content/csstricks-uploads/genrandom.png?resize=482%2C263)
 * There are two method I use a lot 
   * random.next()
   * guild.newguild()
