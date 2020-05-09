@@ -2,7 +2,7 @@
 
 ### **This page will introduce basics about C, you can find the original resouces [here](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)#**
 
-[Back to Mainp page](https://github.com/Dokidok1/new1000)
+[Back to Main page](https://github.com/Dokidok1/new1000)
 
 
 
@@ -34,6 +34,6 @@ Also there are some variable type need to familiar
     
 
    
-[Back to Mainp page](https://github.com/Dokidok1/new1000)                             
+[Back to Main page](https://github.com/Dokidok1/new1000)                             
 
 [Next lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_class.md)
