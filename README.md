@@ -3,6 +3,7 @@
 ### This repository is created for the final project for information technology 1000 at Mizzou
 
 This readme file will **only** introduce the files includ final project. 
+![1000](https://github.com/Dokidok1/new1000/blob/master/images/1000.png)
 
 
 *All the file listed below fulfill the requirement of /
@@ -32,4 +33,5 @@ string s = "c# learning";
 
 ```
 
-markdown syntax [reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+![1](https://github.com/Dokidok1/new1000/blob/master/images/1000.png)
