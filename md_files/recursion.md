@@ -67,6 +67,8 @@ public static int CalculateSumRecursively(int n, int m)
         Console.ReadKey();
     }
 ```
+** This is the illustration of how does recursion works**
+![recursion](https://github.com/Dokidok1/new1000/blob/master/images/34-RecursionGraph.png)
 
 
 [Back to Main page](https://github.com/Dokidok1/new1000)
