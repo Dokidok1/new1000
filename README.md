@@ -1,4 +1,6 @@
-# info1000
+# info1000 final project
+
+Jinbo liu
 
 ### This repository is created for the final project for information technology 1000 at Mizzou
 
@@ -34,4 +36,4 @@ string s = "c# learning";
 ```
 
 [reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-![1](https://github.com/Dokidok1/new1000/blob/master/images/1000.png)
+![1](https://code-maze.com/wp-content/uploads/2020/01/Code-Maze-Logo-White-Text-Transparent-HRez-Full.png)
