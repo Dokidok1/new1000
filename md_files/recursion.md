@@ -2,6 +2,7 @@
 [Back to Main page](https://github.com/Dokidok1/new1000)
 
 *This lecture will teach the basic **recursion** we might be use in our c# projects, the source could be found in [here](https://code-maze.com/csharp-basics-recursion/)*
+![recursion2](https://github.com/Dokidok1/new1000/blob/master/images/465726_1_En_8_Fig1_HTML.jpg)
 
 * the recursion could be used in the following situation
    * calculates the sum of all the numbers from n to m recursively
@@ -68,7 +69,7 @@ public static int CalculateSumRecursively(int n, int m)
     }
 ```
 ** This is the illustration of how does recursion works**
-![recursion](https://github.com/Dokidok1/new1000/blob/master/images/34-RecursionGraph.png)
+![recursion](https://code-maze.com/wp-content/uploads/2018/08/34-RecursionGraph.png)
 
 
 [Back to Main page](https://github.com/Dokidok1/new1000)
