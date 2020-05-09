@@ -34,4 +34,4 @@ Also there are some variable type need to familiar
     
 
    
-[Back to Mainp page](https://github.com/Dokidok1/new1000)
+[Back to Mainp page](https://github.com/Dokidok1/new1000)                              [Next lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_class.md)
