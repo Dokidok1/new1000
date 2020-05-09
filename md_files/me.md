@@ -22,6 +22,9 @@ All brand are good for me, but I love this one specifically.
 ![food](https://img.chewy.com/is/catalog/99973_MAIN._AC_SS55_V1462999364_.jpg)
 
 
+## Sorry, this one is me for sure 
+![me](https://github.com/Dokidok1/new1000/blob/master/images/jinbo2.jpg)
+
 I like to explore unity game developing stuff, since unity uses c#, so here are the resources I collect to help those who want to learn c#
 
 This is c# basic like 
