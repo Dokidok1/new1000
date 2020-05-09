@@ -1,6 +1,6 @@
 ## C# sharp basic 
 
-### **This page will introduce basics about C, you can find the original resouces [here](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)#**
+### **This page will introduce basics about C, you can find the original resouces [here](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)** ![logo](https://i0.wp.com/www.respectability.org/wp-content/uploads/2017/10/Microsoft-logo.jpg?resize=768%2C576&ssl=1)
 
 [Back to Main page](https://github.com/Dokidok1/new1000)
 
