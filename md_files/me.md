@@ -16,7 +16,7 @@ I can always find my favorate food from [here](https://www.chewy.com/b/food-387)
     * Chicken
     * fish
     * original
-    *balbal
+    * balbal
     
 All brand are good for me, but I love this one specifically.
 ![food](https://img.chewy.com/is/catalog/99973_MAIN._AC_SS55_V1462999364_.jpg)
