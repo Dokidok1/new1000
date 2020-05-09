@@ -1,6 +1,6 @@
 # info1000 final project
 
-Jinbo liu
+*Jinbo liu*
 
 ### This repository is created for the final project for information technology 1000 at Mizzou
 
