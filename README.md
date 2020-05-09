@@ -2,7 +2,7 @@
 
 *Jinbo liu*
 
-### This repository is created for the final project for information technology 1000 at Mizzou
+### *This repository is created for the final project for information technology 1000 at Mizzou*
 
 *This readme file will **only** introduce the files includ final project.* 
 ![1000](https://github.com/Dokidok1/new1000/blob/master/images/1000.png)
