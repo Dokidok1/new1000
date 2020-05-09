@@ -11,7 +11,7 @@ the source found be found **[here](https://stackoverflow.com/questions/2706500/h
   
  ### *random.next()*
  
- ```
+ ```c#
  internal static class RandomNumber
 {
     private static Random r = new Random();
