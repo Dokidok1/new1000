@@ -11,15 +11,34 @@
 
 In the Hello world tutorial, you'll create the most basic C# program. You'll explore the string type and how to work with text.
 
-```
-Console.WriteLine("Hello World!");
+```c#
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
 ```
 
 or you can also declare a string first then output the string
 
-```
-public string a = "Hellow World!";
+```c#
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+       public string a = "Hellow World!";
 Console.WriteLine(a);
+    }
+}
+
 ```
 
 Both of these output should be **Hello World**
