@@ -4,7 +4,7 @@
 ### *This is self introduce page*
 
 
-I m in information technology major and senior, for the reason why I m taking this course right now is because I forgot to take it at most of beginning
+*I m in information technology major and senior, for the reason why I m taking this course right now is because I forgot to take it at most of beginning*
 
 
 **This is my portfolio**
