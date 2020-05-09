@@ -26,10 +26,25 @@ I like to explore unity game developing stuff, since unity uses c#, so here are 
 
 This is c# basic like 
 
-```
- public int a = 5;
+```c#
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        { public int a = 5;
  
  Debug.Log(a);
+        }
+    }
+}
+
  ```
  
  It will out put **5** in console window.
