@@ -70,3 +70,7 @@ public static int CalculateSumRecursively(int n, int m)
 
 
 [Back to Main page](https://github.com/Dokidok1/new1000)
+
+[last lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_random.md)
+
+[back to poforlio](https://github.com/Dokidok1/new1000/blob/master/md_files/me.md)
