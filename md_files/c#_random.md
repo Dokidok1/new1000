@@ -52,7 +52,7 @@ the source found be found **[here](https://stackoverflow.com/questions/2706500/h
 
 ### *guild.newguild()*
 
-```
+```c#
 public int GenerateRandom(int min, int max)
 {
     var seed = Convert.ToInt32(Regex.Match(Guid.NewGuid().ToString(), @"\d+").Value);
