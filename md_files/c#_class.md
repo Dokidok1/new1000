@@ -57,7 +57,8 @@ notice the class must be define within **namespace**
 
 
  [Back to Main page](https://github.com/Dokidok1/new1000)
- [last lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/me.md)
+ 
+ [last lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md)
  
  [next lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_random.md)
 
