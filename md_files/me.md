@@ -16,7 +16,7 @@ I can always find my favorate food from [here](https://www.chewy.com/b/food-387)
     * Chicken
     * fish
     * original
-    *balbal
+    * balbal
     
 All brand are good for me, but I love this one specifically.
 ![food](https://img.chewy.com/is/catalog/99973_MAIN._AC_SS55_V1462999364_.jpg)
@@ -26,10 +26,25 @@ I like to explore unity game developing stuff, since unity uses c#, so here are 
 
 This is c# basic like 
 
-```
- public int a = 5;
+```c#
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        { public int a = 5;
  
  Debug.Log(a);
+        }
+    }
+}
+
  ```
  
  It will out put **5** in console window.

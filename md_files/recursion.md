@@ -1,7 +1,7 @@
 ## Recurssion
 [Back to Main page](https://github.com/Dokidok1/new1000)
 
-This lecture will teach the basic **recursion** we might be use in our c# projects, the source could be found in [here](https://code-maze.com/csharp-basics-recursion/)
+*This lecture will teach the basic **recursion** we might be use in our c# projects, the source could be found in [here](https://code-maze.com/csharp-basics-recursion/)*
 
 * the recursion could be used in the following situation
    * calculates the sum of all the numbers from n to m recursively
@@ -9,7 +9,7 @@ This lecture will teach the basic **recursion** we might be use in our c# projec
  
 ### *calculate the sum of all the number from n to m*
 
-```
+```c#
 public static int CalculateSumRecursively(int n, int m)
     {
         int sum = n;
@@ -40,7 +40,7 @@ public static int CalculateSumRecursively(int n, int m)
 ```
 
 ### *Create an application which prints out how many times the number can be divided by 2 evenly*
-```
+```c#
  public static int CountDivisions(double number)
     {
         int count = 0;
@@ -67,6 +67,12 @@ public static int CalculateSumRecursively(int n, int m)
         Console.ReadKey();
     }
 ```
+** This is the illustration of how does recursion works**
+![recursion](https://github.com/Dokidok1/new1000/blob/master/images/34-RecursionGraph.png)
 
 
 [Back to Main page](https://github.com/Dokidok1/new1000)
+
+[last lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_random.md)
+
+[back to poforlio](https://github.com/Dokidok1/new1000/blob/master/md_files/me.md)

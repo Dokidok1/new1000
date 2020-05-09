@@ -11,17 +11,48 @@ the source found be found **[here](https://stackoverflow.com/questions/2706500/h
   
  ### *random.next()*
  
- ```
- Random rnd = new Random();
-int month  = rnd.Next(1, 13); 
-int dice   = rnd.Next(1, 7);  
-int card   = rnd.Next(52)
+ ```c#
+ internal static class RandomNumber
+{
+    private static Random r = new Random();
+    private static object l = new object();
+    private static Random globalRandom = new Random();
+    [ThreadStatic]
+    private static Random localRandom;
+    public static int GenerateNewRandom(int min, int max)
+    {
+        return new Random().Next(min, max);
+    }
+    public static int GenerateLockedRandom(int min, int max)
+    {
+        int result;
+        lock (RandomNumber.l)
+        {
+            result = RandomNumber.r.Next(min, max);
+        }
+        return result;
+    }
+    public static int GenerateRandom(int min, int max)
+    {
+        Random random = RandomNumber.localRandom;
+        if (random == null)
+        {
+            int seed;
+            lock (RandomNumber.globalRandom)
+            {
+                seed = RandomNumber.globalRandom.Next();
+            }
+            random = (RandomNumber.localRandom = new Random(seed));
+        }
+        return random.Next(min, max);
+    }
+}
 ```
 
 
 ### *guild.newguild()*
 
-```
+```c#
 public int GenerateRandom(int min, int max)
 {
     var seed = Convert.ToInt32(Regex.Match(Guid.NewGuid().ToString(), @"\d+").Value);
@@ -30,5 +61,7 @@ public int GenerateRandom(int min, int max)
 ```
 
 [Back to Mainp page](https://github.com/Dokidok1/new1000)
+
+[last page](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_class.md)
 
 [next lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/recursion.md)

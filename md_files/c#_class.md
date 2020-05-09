@@ -11,7 +11,7 @@
   
 *The class in c# is not that hard as what it looks like, to define a class, just need to type the following code*
 
-```Live Demo
+```c#
 using System;
 
 namespace BoxApplication {
@@ -49,12 +49,16 @@ namespace BoxApplication {
 }
 ```
 
+**the output is**
+![class output](https://github.com/Dokidok1/new1000/blob/master/images/class.png)
+
 notice the class must be define within **namespace**
 
 
 
  [Back to Main page](https://github.com/Dokidok1/new1000)
- [last lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/me.md)
+ 
+ [last lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md)
  
  [next lecture](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_random.md)
 
