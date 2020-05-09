@@ -9,7 +9,7 @@ This lecture will teach the basic **recursion** we might be use in our c# projec
  
 ### *calculate the sum of all the number from n to m*
 
-```
+```c#
 public static int CalculateSumRecursively(int n, int m)
     {
         int sum = n;
@@ -40,7 +40,7 @@ public static int CalculateSumRecursively(int n, int m)
 ```
 
 ### *Create an application which prints out how many times the number can be divided by 2 evenly*
-```
+```c#
  public static int CountDivisions(double number)
     {
         int count = 0;
