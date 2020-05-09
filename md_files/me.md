@@ -10,7 +10,7 @@
 **This is my portfolio**
 ![me](https://github.com/Dokidok1/new1000/blob/master/images/paopao.jpg)
 
-I can always find my favorate food from [here](https://www.chewy.com/b/food-387)
+I can always find my favorate food from **[here](https://www.chewy.com/b/food-387)**
 
 * I always like these flavor foods
     * Chicken
