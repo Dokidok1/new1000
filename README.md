@@ -6,26 +6,27 @@ This readme file will **only** introduce the files includ final project.
 
 
 *All the file listed below fulfill the requirement of /
-Paragraphs./ 
-Headers./ 
-Links between the markdown pages./ 
-Links to other web sites./ 
-One or more images that are hosted in the GitHub repo./ 
-One or more images that are hosted elsewhere on the web./ 
-A list./ 
-Some text that is bolded./ 
-Some text that is italicized./ 
-A block of code./ 
+**Paragraphs**./ 
+**Headers**./ 
+**Links between the markdown pages**./ 
+**Links to other web sites**./ 
+**One or more images that are hosted in the GitHub repo**./ 
+**One or more images that are hosted elsewhere on the web**./ 
+**A list**./ 
+**Some text that is bolded**./ 
+**Some text that is italicized**./ 
+**A block of code**./ 
 using*
 
 
 * This project files includes
-  * Personal info
-  * item1
-  * item2
-  * item3
-  * item4
+  * [my poforlio](https://github.com/Dokidok1/new1000/blob/master/md_files/me.md)
+  * [c#_basics](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md)
+  * [c#_class](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_class.md)
+  * [c#_random](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_random.md)
+  * [recursion](https://github.com/Dokidok1/new1000/blob/master/md_files/recursion.md)
 
+*Except the poforlio file, all the other files includes c# codes like this*
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
