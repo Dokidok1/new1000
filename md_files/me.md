@@ -38,10 +38,10 @@ This is c# basic like
  [c# basic](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md) lecture I wrote !
  
  
- [Back to Mainp page](https://github.com/Dokidok1/new1000)
+ [Back to Main page](https://github.com/Dokidok1/new1000)
  
  
- [Start lectures)(https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md)
+ [Start lectures](https://github.com/Dokidok1/new1000/blob/master/md_files/c%23_basic.md)
 
 
 
