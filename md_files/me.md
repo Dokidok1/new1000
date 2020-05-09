@@ -4,13 +4,13 @@
 ### *This is self introduce page*
 
 
-I m in information technology major and senior, for the reason why I m taking this course right now is because I forgot to take it at most of beginning
+*I m in information technology major and senior, for the reason why I m taking this course right now is because I forgot to take it at most of beginning*
 
 
 **This is my portfolio**
 ![me](https://github.com/Dokidok1/new1000/blob/master/images/paopao.jpg)
 
-I can always find my favorate food from [here](https://www.chewy.com/b/food-387)
+I can always find my favorate food from **[here](https://www.chewy.com/b/food-387)**
 
 * I always like these flavor foods
     * Chicken

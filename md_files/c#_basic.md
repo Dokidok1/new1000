@@ -10,7 +10,7 @@
 
 ## *Hello World*
 
-In the Hello world tutorial, you'll create the most basic C# program. You'll explore the string type and how to work with text.
+In the Hello world tutorial, you'll create the most basic C# program. You'll explore the **string type** and how to work with text.
 
 ```c#
 using System.IO;
